@@ -1,1 +1,3 @@
 # wow, look at these things that we all hate to study because it means we we have interviews coming up...
+
+we are supposed to be looking at Packt Publishing 'Learning JavaScript Data Structures and Algorithms', but this probably just other stuff.
